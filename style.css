@@ -106,7 +106,7 @@ p{
     max-width: 70%;
     font-family: 'Merriweather', serif;
 }
-@media (max-width:900px){
+/*@media (max-width:900px){
     #title{
         
         font-size:2.5rem;
@@ -191,3 +191,4 @@ p{
     }
 
 }
+*/
