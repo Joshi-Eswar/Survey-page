@@ -1,0 +1,125 @@
+#foreground{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color:black;
+    text-align: left;
+    padding: 2% 5% 2% 5%;
+    border-radius: 20px;
+    font-size: 1.5rem;
+    border-color: black;
+    
+}
+body{
+    margin: 0;
+
+    background-image:url(https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=752&q=80);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    opacity: .9;
+
+    color:white;
+}
+#title{
+    text-align: center;
+    padding-top: 5%;
+    font-family: 'Lobster', cursive;
+    font-size:5rem;
+    font-weight: 900;
+    color: black;
+    margin:0;
+}
+#description{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size:1.5rem;
+    font-weight: 900;
+    margin-top: 0;
+    color:#2C5F2DFF;
+    margin-left: 10%;
+    background-blend-mode: exclusion;
+}
+#name{
+    height:40px;
+    width:100%;
+    border-radius: 10px;
+    font-size: 1rem;
+    border-color: black;
+}
+#email{
+    height:40px;
+    width:100%;
+    border-radius: 10px;
+    font-size: 1rem;
+    border-color: black;
+
+}
+#number{
+    height:40px;
+    width:100%;
+    border-radius: 10px;
+    font-size: 1rem;
+    border-color: black;
+}
+#dropdown{
+    height:40px;
+    width:100%;
+    border-radius: 10px;
+    font-size: 1rem;
+    border-color: black;
+}
+
+#dropdown1{
+    height:40px;
+    width:100%;
+    border-radius: 10px;
+    font-size: 1rem;
+    border-color: black;
+}
+fieldset{
+    border:none;
+}
+textarea{
+    height:200px;
+    width:100%;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    border-color: black;
+}
+button{
+    height:40px;
+    width: 100%;
+    border-radius: 10px;
+    border-color: black;
+    color:skyblue;
+    background-color: tomato;
+    font-size:1rem;
+    font-weight: 900;
+
+}
+p{
+    align-content: center;
+    text-align: center;
+    margin:0 auto;
+    max-width: 70%;
+    font-family: 'Merriweather', serif;
+}
+@media (max-width:750px){
+    #title{
+        
+        font-size:2.5rem;
+        
+    }
+    #description{
+        
+        font-size:1rem;
+       
+    }
+    #foreground{
+        font-size: 1rem;
+        font-family: 'Merriweather', serif;
+    }
+
+}
