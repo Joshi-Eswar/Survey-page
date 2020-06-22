@@ -114,12 +114,76 @@ p{
     }
     #description{
         
-        font-size:1rem;
+        font-size:1.5rem;
        
     }
     #foreground{
-        font-size: 1rem;
+        font-size: 1.5rem;
         font-family: 'Merriweather', serif;
     }
+    #name{
+        height:80px;
+        width:100%;
+        border-radius: 10px;
+        font-size: 1rem;
+        border-color: black;
+    }
+    #email{
+        height:80px;
+        width:100%;
+        border-radius: 10px;
+        font-size: 1rem;
+        border-color: black;
+    
+    }
+    #number{
+        height:80px;
+        width:100%;
+        border-radius: 10px;
+        font-size: 1rem;
+        border-color: black;
+    }
+    #dropdown{
+        height:80px;
+        width:100%;
+        border-radius: 10px;
+        font-size: 1rem;
+        border-color: black;
+    }
+    
+    #dropdown1{
+        height:80px;
+        width:100%;
+        border-radius: 10px;
+        font-size: 1rem;
+        border-color: black;
+    }
+    fieldset{
+        border:none;
+    }
+    textarea{
+        height:200px;
+        width:100%;
+        border-radius: 10px;
+        font-size: 1.5rem;
+        border-color: black;
+    }
+    button{
+        height:80px;
+        width: 100%;
+        border-radius: 10px;
+        border-color: black;
+        color:skyblue;
+        background-color: tomato;
+        font-size:1rem;
+        font-weight: 900;
+    
+    }
+    p{
+        align-content: center;
+        text-align: center;
+        margin:0 auto;
+        max-width: 70%;
+        font-family: 'Merriweather', serif;
 
 }
