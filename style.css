@@ -125,14 +125,14 @@ p{
         height:80px;
         width:100%;
         border-radius: 10px;
-        font-size: 1rem;
+        font-size: 1.5rem;
         border-color: black;
     }
     #email{
         height:80px;
         width:100%;
         border-radius: 10px;
-        font-size: 1rem;
+        font-size: 1.5rem;
         border-color: black;
     
     }
@@ -140,14 +140,14 @@ p{
         height:80px;
         width:100%;
         border-radius: 10px;
-        font-size: 1rem;
+        font-size: 1.5rem;
         border-color: black;
     }
     #dropdown{
         height:80px;
         width:100%;
         border-radius: 10px;
-        font-size: 1rem;
+        font-size: 1.5rem;
         border-color: black;
     }
     
@@ -155,7 +155,7 @@ p{
         height:80px;
         width:100%;
         border-radius: 10px;
-        font-size: 1rem;
+        font-size: 1.5rem;
         border-color: black;
     }
     fieldset{
@@ -185,6 +185,9 @@ p{
         margin:0 auto;
         max-width: 70%;
         font-family: 'Merriweather', serif;
+    }
+    label{
+        font-size: 1.5rem;
     }
 
 }
